@@ -1,0 +1,28 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #ffd1df;
+    text-align: center;
+}
+
+input{
+    background-color: #ffb8cd;
+    border-radius:5px;
+}
+
+input:hover{
+    font-weight:bold;
+}
+
+.fact{
+    font-style:italic;
+}
+
+.source{
+    text-align:right;
+}
+
+.factDiv{
+    border: 1px black solid;
+    border-radius:5px;
+    margin:10px;
+}
